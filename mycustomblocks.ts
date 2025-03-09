@@ -1,4 +1,4 @@
-//% color=#0fbc11 weight=100 icon="\uf1eb"
+//% color=#000000 weight=100 icon="\uf1eb"
 namespace myCustomBlocks {
     /**
      * サンプル：2 つの数値を加算するブロック
