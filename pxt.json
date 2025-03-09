@@ -1,0 +1,14 @@
+{
+  "name": "myCustomBlocks",
+  "version": "0.0.1",
+  "description": "My custom blocks for micro:bit",
+  "files": [
+    "README.md",
+    "mycustomblocks.ts"
+  ],
+  "dependencies": {
+    "microbit": "*"
+  },
+  "target": "microbit",
+  "preferredEditor": "ts"
+}
